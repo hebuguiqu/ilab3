@@ -7,7 +7,7 @@ Wheels and requirements file used to build my scientific python3 environments.
 ```bash
 git clone https://github.com/wehlutyk/ilab3.git  # Clone this repo
 mkvirtualenv -p python3 <your-environment>       # Create a python3 environment
-./install.sh                                     # Install the wheels
+./install.sh                                     # Install the wheels and MathJax
 ```
 
 ## Adding packages
