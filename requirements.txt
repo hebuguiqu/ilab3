@@ -1,5 +1,7 @@
+Cython==0.20
 Jinja2==2.7.2
 MarkupSafe==0.18
+http://www.h5py.org/dl/h5py-2.2.1.tar.gz
 husl==2.1.0
 ipdb==0.8
 ipycache==0.1.4
