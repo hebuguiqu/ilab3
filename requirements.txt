@@ -6,7 +6,8 @@ husl==2.1.0
 ipdb==0.8
 ipycache==0.1.4
 ipython==1.1.0
-git+https://github.com/matplotlib/matplotlib
+git+https://github.com/jakevdp/ipywidgets.git
+git+https://github.com/matplotlib/matplotlib.git
 mongoengine==0.8.6
 moss==0.2.0
 networkx==1.8.1
