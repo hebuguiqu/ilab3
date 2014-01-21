@@ -23,7 +23,7 @@ pip freeze > requirements.txt  # Rewrite requirements
 # because wheel doesn't handle the former.
 
 # Also, while matplotlib in PyPI is not yet 1.2.x (support for python3),
-# the original "https+git" gets converted to "matplotlib==1.4.x" when using
+# the original "git+https" gets converted to "matplotlib==1.4.x" when using
 # "pip freeze", so this also needs correcting.
 
 pip wheel -r requirements.txt  # Rebuild wheels
