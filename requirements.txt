@@ -9,6 +9,7 @@ ipython==1.1.0
 git+https://github.com/jakevdp/ipywidgets.git
 git+https://github.com/jakevdp/JSAnimation.git
 git+https://github.com/matplotlib/matplotlib.git
+git+https://github.com/jakevdp/mpld3.git
 mongoengine==0.8.6
 moss==0.2.0
 networkx==1.8.1
