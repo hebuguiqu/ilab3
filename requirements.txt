@@ -1,4 +1,5 @@
 Cython==0.20
+git+https://github.com/jakevdp/JSAnimation.git
 Jinja2==2.7.2
 MarkupSafe==0.18
 http://www.h5py.org/dl/h5py-2.2.1.tar.gz
@@ -7,11 +8,10 @@ ipdb==0.8
 ipycache==0.1.4
 ipython==1.1.0
 git+https://github.com/jakevdp/ipywidgets.git
-git+https://github.com/jakevdp/JSAnimation.git
 git+https://github.com/matplotlib/matplotlib.git
-git+https://github.com/jakevdp/mpld3.git
 mongoengine==0.8.6
 moss==0.2.0
+git+https://github.com/jakevdp/mpld3.git
 networkx==1.8.1
 nose==1.3.0
 numpy==1.8.0
