@@ -2,6 +2,9 @@ Cython==0.20
 git+https://github.com/jakevdp/JSAnimation.git
 Jinja2==2.7.2
 MarkupSafe==0.18
+Pygments==1.6
+Sphinx==1.2.1
+docutils==0.11
 http://www.h5py.org/dl/h5py-2.2.1.tar.gz
 husl==2.1.0
 ipdb==0.8
