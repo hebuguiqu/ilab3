@@ -11,7 +11,7 @@ ipdb==0.8
 ipycache==0.1.4
 ipython==1.1.0
 git+https://github.com/jakevdp/ipywidgets.git
-git+https://github.com/matplotlib/matplotlib.git
+git+https://github.com/matplotlib/matplotlib.git@0fad023a682d575a85fb1e2c0aabf21611661fc1
 mongoengine==0.8.6
 moss==0.2.0
 git+https://github.com/jakevdp/mpld3.git
