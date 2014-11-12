@@ -3,6 +3,7 @@ Jinja2
 MarkupSafe
 Pygments
 Sphinx
+certifi
 decorator
 docutils
 husl
