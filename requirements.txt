@@ -16,6 +16,7 @@ mongoengine
 moss
 networkx
 neurolab
+nltk
 nose
 numpy
 pandas
